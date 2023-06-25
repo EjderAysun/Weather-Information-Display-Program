@@ -88,4 +88,4 @@ SE 226 Course Assistant, [Res. Asst. Erdem Okur](https://people.ieu.edu.tr/en/er
 ---
 ## Licence & Copyright
 © Ejder Aysun, Weather Information Display Program  
-Licensed under the MIT Licence
+Licensed under the [MIT Licence](https://github.com/EjderAysun/Weather-Information-Display-Program/blob/main/LICENCE)
