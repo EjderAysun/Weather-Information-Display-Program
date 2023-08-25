@@ -225,8 +225,8 @@ Since the content of the SE 226 projects that will be given in the next periods 
 ### At every stage of the project:
 #### Team Members:  
 &ensp;&ensp;&ensp;Ejder Aysun <ejderaysunn@gmail.com>  
-&ensp;&ensp;&ensp;Murat Vermez  
-&ensp;&ensp;&ensp;Bartu Nurgün  
+&ensp;&ensp;&ensp;Murat Vermez  <muratholiday@outlook.com>  
+&ensp;&ensp;&ensp;Bartu Nurgün  <bartunurgun.2@gmail.com>  
 
 SE 226 Course Coordinator and Course Lecturer, [Assoc. Prof. Senem KUMOVA METİN](https://people.ieu.edu.tr/en/senemkumovametin/main)  
 SE 226 Course Assistant, [Res. Asst. Erdem Okur](https://people.ieu.edu.tr/en/erdemokur/main)  
