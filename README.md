@@ -203,7 +203,8 @@ As stated in *Requirement III*, if the file is not present or preferences cannot
 
 ---
 ## Status
-With the exception of bug fixes (if any), development of this project is complete.
+~~With the exception of bug fixes (if any), development of this project is complete.~~  
+Development of this project is complete
 
 ---
 ## Inspiration
@@ -228,8 +229,8 @@ Since the content of the SE 226 projects that will be given in the next periods 
 &ensp;&ensp;&ensp;Murat Vermez  <muratholiday@outlook.com>  
 &ensp;&ensp;&ensp;Bartu Nurgün  <bartunurgun.2@gmail.com>  
 
-SE 226 Course Coordinator and Course Lecturer, [Assoc. Prof. Senem KUMOVA METİN](https://people.ieu.edu.tr/en/senemkumovametin/main)  
-SE 226 Course Assistant, [Res. Asst. Erdem Okur](https://people.ieu.edu.tr/en/erdemokur/main)  
+SE 226 Course Coordinator and Course Lecturer, [Senem KUMOVA METİN](https://people.ieu.edu.tr/en/senemkumovametin/main)  
+SE 226 Course Assistant, [Erdem Okur](https://people.ieu.edu.tr/en/erdemokur/main)  
 
 ---
 ## Licence & Copyright
